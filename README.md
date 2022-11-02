@@ -1,2 +1,3 @@
-# LiteVL: Efficient Video-Language Learning with Enhanced Spatial-Temporal Modeling（EMNLP 2022）
-MindSpore Code for LiteVL
+# LiteVL (EMNLP 2022)
+## Align and Prompt: Video-and-Language Pre-training with Entity Prompts [Paper]
+MindSpore Code for LiteVL (Coming soon)
